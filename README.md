@@ -38,6 +38,7 @@ pkg install git -y
 pkg install bash -y
 pkg install termux-api -y
 git clone https://github.com/CyberVansh-coder/Airsnitch.git
+unzip AirSnitch.zip
 cd AirSnitch
 chmod +x airsnitch.sh
 chmod +x modules/*.sh
@@ -47,6 +48,7 @@ bash airsnitch.sh
 # Open Git Bash or WSL terminal
 ```
 git clone https://github.com/CyberVansh-coder/Airsnitch.git
+unzip AirSnitch.zip
 cd AirSnitch
 chmod +x airsnitch.sh
 chmod +x modules/*.sh
@@ -60,6 +62,7 @@ pkg install git -y
 pkg install bash -y
 pkg install termux-api -y
 git clone https://github.com/CyberVansh-coder/Airsnitch.git
+unzip AirSnitch.zip
 cd AirSnitch
 chmod +x airsnitch.sh
 chmod +x modules/*.sh
